@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="EECS40_Assignment2:jar">
+    <output-path>$PROJECT_DIR$/Assignment_Project/out/artifacts/Assignment_Project_jar</output-path>
+    <root id="archive" name="EECS40_Assignment2.jar">
+      <element id="module-output" name="EECS40_Assignment2" />
+    </root>
+  </artifact>
+</component>

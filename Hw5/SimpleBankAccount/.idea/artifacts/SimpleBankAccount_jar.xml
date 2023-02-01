@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SimpleBankAccount:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/SimpleBankAccount_jar</output-path>
+    <root id="archive" name="SimpleBankAccount.jar">
+      <element id="module-output" name="SimpleBankAccount" />
+    </root>
+  </artifact>
+</component>
